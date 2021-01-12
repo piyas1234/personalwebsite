@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    padding: 0;
+    font: 1em sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    width:450px;
+    margin: auto;
+}
+.navbar-section{
+    height: 80px;
+}
+
+.navbar{
+    width: 300px; 
+    display:inline-block;
+    float: right;
+    
+}
+
+ 
+
+.nav-item{
+    width:70px;
+    float: left;
+    font-weight: 100;
+     
+}
+
+.main{
+    font-family: cursive;
+    width: 50%;
+    float: left;
+}
+ 
+.color-name{
+    color:rgb(255, 129, 12)
+}
+
+.link-btn{
+    text-decoration: none;
+    padding: 10px;
+    background:coral;
+    color:rgb(255, 255, 255);
+    border-radius: 5px;
+    border:none;
+    
+
+}
+
+
+.about{
+    float:left;
+    width:50%;
+    display: inline-block;
+}
+.about-section{
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+
+.work-section{
+    margin-top:100px;
+    margin-bottom:10px;
+    background-color:rgb(236, 236, 236);
+    width: 100%;
+    display: inline-block;
+    padding: 10px;
+    padding-bottom: 50px;
+    margin: auto;
+    
+}
+.work{
+    float:left;
+    width: 28%;
+    margin:  2px 10px;
+}
+
+.work-title{
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+ .title-color{
+    color:tomato;
+}
+
+
+.body-work{
+    width:70%;
+    padding: 20px;
+    background:linear-gradient(rgb(45, 45, 255), rgb(55, 148, 255) , rgb(135, 135, 245));
+    border-radius: 5px;
+    text-align:center;
+    margin:auto;
+    margin-top: 20px;
+    color:whitesmoke
+
+} 
+
+.footer{
+ margin: auto;
+ text-align:center;
+ margin-top: 50px; 
+ font-family:Arial;
+ font-weight: 100;
+
+}
+
+
+.main-section{
+    margin-bottom: 10px;
+    display:inline-block;
+}
+
+.skills-h1{
+    color:rgb(255, 255, 255);
+    padding: 12px;
+    margin:auto;
+    background-color: tomato;
+}
+
+.skills h3{
+     
+    padding: 5px;
+}
+
+.javascript{
+    width: 400px;
+    background-color: rgb(255, 202, 28);
+    border-radius: 5px;
+    color:whitesmoke ;
+    text-align: center;
+    padding: 5px;
+}
+.python{
+    width: 400px;
+    background-color: rgb(37, 255, 84);
+    border-radius: 5px;
+    color:whitesmoke ;
+    text-align: center;
+    padding: 5px;
+
+}.php{
+    width: 400px;
+    background-color: rgb(44, 206, 44);
+    border-radius: 5px;
+    color:whitesmoke ;
+    text-align: center;
+    padding: 5px;
+
+}.django{
+    width: 400px;
+    background-color: rgb(160, 197, 25);
+    border-radius: 5px;
+    color:whitesmoke ;
+    text-align: center;
+    padding: 5px;
+
+}.react{
+    width: 400px;
+    background-color: rgb(41, 37, 255);
+    border-radius: 5px;
+    color:whitesmoke ;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.skills-section{
+    margin-top: 40px;
+    margin-bottom: 100px;
+    margin: auto;
+    display: inline-block;
+    
+}
